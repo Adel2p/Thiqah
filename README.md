@@ -1,5 +1,5 @@
 # Android Kotlin MVP : Sample App
-please note that I apologize for not completing the task
+please note that I apologize for not completing the task because of Family reasons
 This repository contains a detailed sample app that implements MVP architecture in Kotlin using Dagger2, Room, RxJava, FastAndroidNetworking, PlaceHolderView and AndroidDebugDatabase
 # Architecture Blueprint
 ![Blueprint](https://janishar.github.io/images/mvp-app-pics/mvp-interactor-arch.png)
