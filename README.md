@@ -1,6 +1,4 @@
-# Android Kotlin MVP Architecture: Sample App
-[![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
-[![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
+# Android Kotlin MVP : Sample App
 
 This repository contains a detailed sample app that implements MVP architecture in Kotlin using Dagger2, Room, RxJava, FastAndroidNetworking, PlaceHolderView and AndroidDebugDatabase
 # Architecture Blueprint
