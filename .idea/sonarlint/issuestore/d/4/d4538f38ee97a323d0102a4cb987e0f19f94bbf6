@@ -1,0 +1,8 @@
+
+usquid:S2637$"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637*"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š»³ ùÿÿÿÿ
+Bsquid:S1172"&Remove these unused method parameters.(“Ş“ûÿÿÿÿ
+3squid:S2225*"Return empty string instead.(¥¹ï
+Ysquid:UnusedPrivateMethod"/Remove this unused private "component1" method.(ÙëÑ÷øÿÿÿÿ
+Ssquid:UnusedPrivateMethod"/Remove this unused private "component2" method.(õÆ±j

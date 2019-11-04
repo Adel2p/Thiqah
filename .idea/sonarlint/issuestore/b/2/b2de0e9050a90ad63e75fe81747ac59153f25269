@@ -1,0 +1,21 @@
+
+squid:S2637N"h"questionText" is marked "org.jetbrains.annotations.NotNull" but is not initialized in this constructor.(Ö‹Ù
+vsquid:S2637€"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637\"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637w"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637,"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š»³ ùÿÿÿÿ
+squid:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Àù¿úÿÿÿÿ
+˜squid:S1186/"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¨ƒ
+˜squid:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µÖØô
+squid:S1186A"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£ÃÅ¦ùÿÿÿÿ
+˜squid:S1186J"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(øÁÒô
+Psquid:S3400$"9Remove this method and declare a constant for this value.(ª¸•¼
+Esquid:S1172'")Remove this unused method parameter "p0".(Àù¿úÿÿÿÿ
+Esquid:S11720")Remove this unused method parameter "p0".(ä©¡„üÿÿÿÿ
+Esquid:S11729")Remove this unused method parameter "p0".(ä©¡„üÿÿÿÿ
+Esquid:S1172B")Remove this unused method parameter "p0".(ä©¡„üÿÿÿÿ
+Esquid:S1172K")Remove this unused method parameter "p0".(ä©¡„üÿÿÿÿ
+=squid:S1172N"&Remove these unused method parameters.(Ö‹Ù
+Psquid:S3400W"9Remove this method and declare a constant for this value.(ª¸•¼
+4squid:S2225€"Return empty string instead.(¥¹ï

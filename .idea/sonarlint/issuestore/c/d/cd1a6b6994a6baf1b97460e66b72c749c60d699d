@@ -1,0 +1,24 @@
+
+usquid:S2637Q"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637W"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637]"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637 "^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637'"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637A"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S26379"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637I"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637/"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š»³ ùÿÿÿÿ
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÍğ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÜŠ¬üÿÿÿÿ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ú«®øÿÿÿÿ
+ksquid:S00100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ãúÿúÿÿÿÿ
+ksquid:S00100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â…¶øÿÿÿÿ
+ksquid:S001005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î©êúÿÿÿÿ
+fsquid:S00100?"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÿ„²
+ksquid:S00100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áƒ‘ïùÿÿÿÿ
+ksquid:S00100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰­ş•ûÿÿÿÿ
+ksquid:S00100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÖúŠùÿÿÿÿ
+ksquid:S00100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»«˜œøÿÿÿÿ

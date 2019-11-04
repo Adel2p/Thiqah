@@ -1,0 +1,20 @@
+
+usquid:S2637#"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637."^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š»³ ùÿÿÿÿ
+8squid:S1170"!Make this final field static too.(ä¤©Õ
+=squid:S1170"!Make this final field static too.(²‹Ò”ûÿÿÿÿ
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³Şî
+˜squid:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜¿ğõ
+˜squid:S11862"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—´ù¨
+squid:S1186="€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İŒÄšÿÿÿÿÿ
+squid:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÙ¨Õøÿÿÿÿ
+Asquid:S1068"*Remove this unused "mPrefs" private field.(ä¤©Õ
+Lsquid:S1068"0Remove this unused "prefFileName" private field.(²‹Ò”ûÿÿÿÿ
+Wsquid:S1068	"@Remove this unused "PREF_KEY_USER_LOGGED_IN_MODE" private field.(ş”ÿ¿
+Ssquid:S1068
+"<Remove this unused "PREF_KEY_CURRENT_USER_ID" private field.(àÎà‰
+Psquid:S1068"9Remove this unused "PREF_KEY_ACCESS_TOKEN" private field.(ûü¸
+Zsquid:S1068">Remove this unused "PREF_KEY_CURRENT_USER_NAME" private field.(†Í‹şÿÿÿÿ
+Vsquid:S1068"?Remove this unused "PREF_KEY_CURRENT_USER_EMAIL" private field.(ªÙ¹²

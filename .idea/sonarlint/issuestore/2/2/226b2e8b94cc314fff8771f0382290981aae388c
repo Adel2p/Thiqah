@@ -1,0 +1,9 @@
+
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š»³ ùÿÿÿÿ
+xsquid:S00116"[Rename this field "_$_findViewCache" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬âÖúÿÿÿÿ
+isquid:UnusedPrivateMethod&"?Remove this unused private "performDependencyInjection" method.(ÀÑşüûÿÿÿÿ
+^squid:UnusedPrivateMethod-"4Remove this unused private "getBaseActivity" method.(³Ìâÿÿÿÿÿ
+Isquid:S1068
+"2Remove this unused "parentActivity" private field.(Ñ—Ôß
+Isquid:S1068"2Remove this unused "progressDialog" private field.(ö“Æì
+Psquid:S1068"4Remove this unused "_$_findViewCache" private field.(¬âÖúÿÿÿÿ

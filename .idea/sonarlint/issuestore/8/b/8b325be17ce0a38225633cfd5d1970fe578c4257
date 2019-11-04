@@ -1,0 +1,7 @@
+
+šsquid:S2637"~"activityDispatchingAndroidInjector" is marked "org.jetbrains.annotations.NotNull" but is not initialized in this constructor.(•ü±ùÿÿÿÿ
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š»³ ùÿÿÿÿ
+—squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(š¹ÃJ
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Î¢È

@@ -1,0 +1,28 @@
+
+usquid:S2637 "^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637*"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637%"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š»³ ùÿÿÿÿ
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•õßäüÿÿÿÿ
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÓèê
+fsquid:S00100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýúÉ¹
+fsquid:S00100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Ýãù
+Psquid:S3400."9Remove this method and declare a constant for this value.(”·³›
+fsquid:S00100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýÛÊÌ
+Psquid:S34002"9Remove this method and declare a constant for this value.(”·³›
+fsquid:S001001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬´¦Ð
+Psquid:S34006"9Remove this method and declare a constant for this value.(”·³›
+fsquid:S001005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¤ø
+Psquid:S3400:"9Remove this method and declare a constant for this value.(”·³›
+fsquid:S001009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þ¹äà
+Psquid:S3400>"9Remove this method and declare a constant for this value.(ª¸•¼
+fsquid:S00100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶œ¦í
+Esquid:S2786F")Remove this redundant "static" qualifier.(¸·²äúÿÿÿÿ
+Psquid:S3400N"9Remove this method and declare a constant for this value.(”·³›
+`squid:UnusedPrivateMethodQ"6Remove this unused private "LoggedInMode" constructor.(ÅÓ•ãüÿÿÿÿ
+Ksquid:S1068"5Remove this unused "EMPTY_EMAIL_ERROR" private field.(ö«Ž"
+Ssquid:S1068"7Remove this unused "INVALID_EMAIL_ERROR" private field.(¬Ñå‘üÿÿÿÿ
+Osquid:S1068"8Remove this unused "EMPTY_PASSWORD_ERROR" private field.(þâÌ¹
+Hsquid:S1068"1Remove this unused "LOGIN_FAILURE" private field.(å¢´¡
+Esquid:S1068".Remove this unused "NULL_INDEX" private field.(ó£‘ú

@@ -1,0 +1,17 @@
+
+ysquid:S14504"bRemove the "applicationProvider" field and declare it as a local variable in the relevant methods.(çİ”•
+†squid:S14506"oRemove the "provideContext$app_debugProvider" field and declare it as a local variable in the relevant methods.(©»‹Ÿ
+squid:S14508"tRemove the "provideprefFileName$app_debugProvider" field and declare it as a local variable in the relevant methods.(öØÈ½ûÿÿÿÿ
+squid:S1450:"jRemove the "appPreferenceHelperProvider" field and declare it as a local variable in the relevant methods.(ÉÂÅñ
+Šsquid:S1450>"nRemove the "provideApiKey$app_debugProvider" field and declare it as a local variable in the relevant methods.(æôö¶øÿÿÿÿ
+}squid:S1450@"fRemove the "publicApiHeaderProvider" field and declare it as a local variable in the relevant methods.(„Ê¯
+‘squid:S1450B"zRemove the "provideProtectedApiHeader$app_debugProvider" field and declare it as a local variable in the relevant methods.(Ä ¹©
+|squid:S1450D"`Remove the "apiHeaderProvider" field and declare it as a local variable in the relevant methods.(ş”Èúÿÿÿÿ
+squid:S1450F"cRemove the "appApiHelperProvider" field and declare it as a local variable in the relevant methods.(ÜÓ›¼ûÿÿÿÿ
+ƒsquid:S001166"kRename this field "provideContext$app_debugProvider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©»‹Ÿ
+squid:S001168"pRename this field "provideprefFileName$app_debugProvider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öØÈ½ûÿÿÿÿ
+‹squid:S00116<"nRename this field "providePrefHelper$app_debugProvider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‹î×øÿÿÿÿ
+‡squid:S00116>"jRename this field "provideApiKey$app_debugProvider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æôö¶øÿÿÿÿ
+squid:S00116B"vRename this field "provideProtectedApiHeader$app_debugProvider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä ¹©
+Šsquid:S00116H"mRename this field "provideApiHelper$app_debugProvider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÔ´õıÿÿÿÿ
+psquid:S2293Ø"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯òó

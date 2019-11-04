@@ -1,0 +1,9 @@
+
+usquid:S26375"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S26370"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š»³ ùÿÿÿÿ
+=squid:S1170"!Make this final field static too.(‰þø°üÿÿÿÿ
+=squid:S1170"!Make this final field static too.(ÀÂ‰¿ùÿÿÿÿ
+Wsquid:UnusedPrivateMethod"3Remove this unused private "isViewAttached" method.(‘Ûõ>
+?squid:S1068
+"(Remove this unused "view" private field.(ø±æ’

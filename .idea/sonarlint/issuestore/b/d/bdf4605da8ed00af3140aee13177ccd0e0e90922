@@ -1,0 +1,23 @@
+
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­ˆµâıÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß‡¡Ÿüÿÿÿÿ
+isquid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú†í
+isquid:S00117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šºî€
+nsquid:S00117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¾ğÂøÿÿÿÿ
+isquid:S00117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÚ…†
+nsquid:S00117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò··øøÿÿÿÿ
+nsquid:S00117q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ×—³ùÿÿÿÿ
+nsquid:S00117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¾ğÂøÿÿÿÿ
+isquid:S00117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÚ…†
+nsquid:S00117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò··øøÿÿÿÿ
+usquid:UselessImportCheck
+"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ú®Ú±
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ôİÕıÿÿÿÿ
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(¤î˜Óüÿÿÿÿ
+gsquid:S00116"ORename this field "__db" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÛôÇ
+~squid:S00116"fRename this field "__insertionAdapterOfOptions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( —™õ
+`squid:CallToDeprecatedMethod;"8Remove this use of "beginTransaction"; it is deprecated.(¶Ü£ı
+msquid:CallToDeprecatedMethod>"@Remove this use of "setTransactionSuccessful"; it is deprecated.(Ä±Ëÿÿÿÿÿ
+^squid:CallToDeprecatedMethod@"6Remove this use of "endTransaction"; it is deprecated.(ÛÔÃÕ
+psquid:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôÚ…†
+psquid:S2293{"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôÚ…†

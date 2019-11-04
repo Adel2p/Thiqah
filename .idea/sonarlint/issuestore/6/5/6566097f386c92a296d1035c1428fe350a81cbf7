@@ -1,0 +1,39 @@
+
+usquid:S2637s"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+vsquid:S2637¥"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S26375"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+vsquid:S2637·"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637\"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637W"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637."^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+vsquid:S2637š"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+vsquid:S2637±"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637l"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637y"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637)"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+vsquid:S2637ª"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+vsquid:S2637•"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637g"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637;"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š»³ ùÿÿÿÿ
+4squid:S1118"Hide this public constructor.(÷„¦ù
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æˆÒõ
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÒ‡¡
+Bsquid:S1172""&Remove these unused method parameters.(é©×üÿÿÿÿ
+fsquid:S00100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘øÊ
+ksquid:S00100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¥éÄùÿÿÿÿ
+3squid:S2225;"Return empty string instead.(¥¹ï
+ksquid:S00100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àôøşÿÿÿÿ
+fsquid:S00100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºçÁ…
+=squid:S1172`"&Remove these unused method parameters.(›‰ôê
+fsquid:S00100f"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘øÊ
+ksquid:S00100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¥éÄùÿÿÿÿ
+3squid:S2225y"Return empty string instead.(¥¹ï
+lsquid:S00100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€³àÈûÿÿÿÿ
+lsquid:S00100™"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Äÿÿÿÿÿ
+Csquid:S1172"&Remove these unused method parameters.(×­»üÿÿÿÿ
+gsquid:S00100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä‘øÊ
+lsquid:S00100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¥éÄùÿÿÿÿ
+4squid:S2225·"Return empty string instead.(¥¹ï

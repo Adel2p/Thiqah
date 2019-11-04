@@ -1,0 +1,14 @@
+
+usquid:S2637b"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637h"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š»³ ùÿÿÿÿ
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹—ÙÈ
+squid:S1186&"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ®´ÿúÿÿÿÿ
+squid:S1186/"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(İ­õ›úÿÿÿÿ
+squid:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡û¹Åøÿÿÿÿ
+Esquid:S1172")Remove this unused method parameter "p0".(ä©¡„üÿÿÿÿ
+Esquid:S1172'")Remove this unused method parameter "p0".(ä©¡„üÿÿÿÿ
+Esquid:S11720")Remove this unused method parameter "p0".(ä©¡„üÿÿÿÿ
+Esquid:S11729")Remove this unused method parameter "p0".(ä©¡„üÿÿÿÿ
+=squid:S1172="&Remove these unused method parameters.(–ø‰
+3squid:S2225h"Return empty string instead.(¥¹ï

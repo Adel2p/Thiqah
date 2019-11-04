@@ -1,0 +1,9 @@
+
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+usquid:S2637"^This method's return value is marked "org.jetbrains.annotations.NotNull" but null is returned.(¥¹ï
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š»³ ùÿÿÿÿ
+=squid:S1170
+"!Make this final field static too.(…Ÿİ‚ûÿÿÿÿ
+Lsquid:S1068
+"0Remove this unused "questionsDao" private field.(…Ÿİ‚ûÿÿÿÿ

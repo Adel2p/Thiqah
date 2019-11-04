@@ -1,0 +1,17 @@
+
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«—³
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¢­÷ıÿÿÿÿ
+nsquid:S00117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ×—³ùÿÿÿÿ
+nsquid:S00117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¾ğÂøÿÿÿÿ
+isquid:S00117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úü‹ê
+nsquid:S00117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Æóÿÿÿÿÿ
+usquid:UselessImportCheck
+"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ú®Ú±
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ôİÕıÿÿÿÿ
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(¤î˜Óüÿÿÿÿ
+gsquid:S00116"ORename this field "__db" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÛôÇ
+squid:S00116"gRename this field "__insertionAdapterOfQuestion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úŒÑˆ
+`squid:CallToDeprecatedMethod<"8Remove this use of "beginTransaction"; it is deprecated.(¶Ü£ı
+msquid:CallToDeprecatedMethod?"@Remove this use of "setTransactionSuccessful"; it is deprecated.(Ä±Ëÿÿÿÿÿ
+^squid:CallToDeprecatedMethodA"6Remove this use of "endTransaction"; it is deprecated.(ÛÔÃÕ
+psquid:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(úü‹ê
